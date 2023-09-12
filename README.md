@@ -13,7 +13,7 @@
 
 ## 🔗 Connect with Me
 
-- 📫 You can reach me via email at (mailto:biswajitrai1999@email.com).
+- 📫 You can reach me via email at biswajitrai1999@email.com.
 ## 💼 Looking to Collaborate
 
 - 👨‍👩‍👦‍👦 I'm open to collaborating on web development projects, especially full-stack applications.
